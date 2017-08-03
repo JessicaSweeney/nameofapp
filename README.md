@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This README is here for you to get familiar with the developer.
 
-Things you may want to cover:
+Jessica is a full-stack web developer and animal advocate.
 
-* Ruby version
+Please refer to my website to contact me with any questions or concerns.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Have a great day!
